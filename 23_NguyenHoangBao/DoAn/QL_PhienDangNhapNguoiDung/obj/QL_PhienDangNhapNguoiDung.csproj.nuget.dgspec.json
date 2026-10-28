@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\23_NguyenHoangBao\\DoAn\\QL_PhienDangNhapNguoiDung\\QL_PhienDangNhapNguoiDung.csproj": {}
+  },
+  "projects": {
+    "D:\\23_NguyenHoangBao\\DoAn\\QL_PhienDangNhapNguoiDung\\QL_PhienDangNhapNguoiDung.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\23_NguyenHoangBao\\DoAn\\QL_PhienDangNhapNguoiDung\\QL_PhienDangNhapNguoiDung.csproj",
+        "projectName": "QL_PhienDangNhapNguoiDung",
+        "projectPath": "D:\\23_NguyenHoangBao\\DoAn\\QL_PhienDangNhapNguoiDung\\QL_PhienDangNhapNguoiDung.csproj",
+        "packagesPath": "C:\\Users\\HBAO\\.nuget\\packages\\",
+        "outputPath": "D:\\23_NguyenHoangBao\\DoAn\\QL_PhienDangNhapNguoiDung\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HBAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.9.25, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
